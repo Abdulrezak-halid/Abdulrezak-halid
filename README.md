@@ -16,27 +16,27 @@
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<h4>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> <h4/>  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521778-2945272.png"></code>
+
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-#
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png"></code>
+
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
 <br/>
 
@@ -44,31 +44,38 @@
 
 
 
-<h2>Profile stats 📈</h2>
+<h2>Profile Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h2>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                
-  <br>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                  
 <table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
- <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrezak-halid&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>  <br></br>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrezak-halid&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>  </td>
-</tr>
+  <tr border="0">
+    <td width="50%" align="center">
+      <a href="https://github.com/Abdulrezak-halid">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrezak-halid&theme=2077" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Abdulrezak-halid">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrezak-halid&theme=2077" alt="Most Commit Language" />
+      </a>
+    </td>
+  </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrezak-halid&theme=2077" alt="Profile Details">
+</div>
+
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
 
 
-
-<h2>Reach Me at 📫</h2>
+<h2>Reach Me at <a>
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a></h2>
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ax729)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdulrezak.khaled@gmail.com)](mailto:abdulrezak.khaled@gmail.com)
