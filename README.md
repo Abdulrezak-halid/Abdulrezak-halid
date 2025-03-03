@@ -34,7 +34,6 @@
 
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
