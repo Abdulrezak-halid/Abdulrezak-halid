@@ -1,4 +1,3 @@
-<h1 align="Center" color="teal">  Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <p align="center" margin="10px">
 <h2> I'm Abdulrezak Khaled  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>  
