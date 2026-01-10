@@ -4,12 +4,7 @@
 </div>
 
 
-- 📚 I am a student of Information Systems and Technology at Mersin University.
-- ⚡ I study and work at the same time. I love my job and technology.
-- 👨‍💻 I work as a Front-End Developer at A Plus Engineering Company.
-- 💻 I love programming, technology, and continuous learning.
-- 🌐 Learning something new every day makes me very happy.
-
+404: Motivation not found (fixed with coffee ☕)
 
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
