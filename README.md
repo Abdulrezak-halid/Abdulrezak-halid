@@ -1,6 +1,6 @@
 
 <p align="center" margin="10px">
-<h2> I'm Abdulrezak Halit  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>  
+<h1 align="center">Hi , I'm Abdulrezak Halit <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 </div>
 
 
