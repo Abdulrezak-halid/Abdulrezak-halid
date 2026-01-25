@@ -1,8 +1,10 @@
 
 <p align="center" margin="10px">
-<h1 align="center">Hi , I'm Abdulrezak Halit <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Abdulrezak Halit </h1>
 </div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f74aee60-93b9-44dc-9a6e-09b760c39b07" alt="Mario Banner" />
+</p>
 
 404: Motivation not found (fixed with coffee ☕)
 
@@ -33,9 +35,11 @@
 
 <br/>
 
-<a href="#">
-  <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>  
 
 <h2>Profile Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h2>
 
