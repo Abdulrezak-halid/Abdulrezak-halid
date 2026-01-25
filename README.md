@@ -1,13 +1,15 @@
 
 <p align="center" margin="10px">
-<h1 align="center">Hi , I'm Abdulrezak Halit </h1>
-</div>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f74aee60-93b9-44dc-9a6e-09b760c39b07" alt="Mario Banner" />
 </p>
 
-404: Motivation not found (fixed with coffee ☕)
+<!-- <h1 align="center">Hi , I'm Abdulrezak Halit </h1> -->
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
+
+<!-- <div align="left"> -->
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
