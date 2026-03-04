@@ -1,4 +1,3 @@
-
 <p align="center" margin="10px">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f74aee60-93b9-44dc-9a6e-09b760c39b07" alt="Mario Banner" />
@@ -16,24 +15,10 @@
 
 <h4>𝙻anguages 𝙰nd 𝚃ools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> <h4/>  
 <br/>
-<br/>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521778-2945272.png"></code>
 
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-226077.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/figma-3521426-2944870.png"></code>
-
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/git-17-1175218.png"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,typescript,javascript,astro,tailwind,python,cpp,git,github,gitlab,docker,nodejs,linux,figma,vscode&theme=dark&perline=6" />
+</p>
 
 <br/>
 
