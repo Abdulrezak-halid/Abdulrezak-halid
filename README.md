@@ -45,7 +45,7 @@ Building scalable, clean, and high-performance applications.
 
 ---
 
-### Connect With Me 📫 
+### Connect With Me 
 
 <p>
     <a href="mailto:abdulrezak.khaled@gmail.com" target="_blank">
