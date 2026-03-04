@@ -8,12 +8,14 @@
 
 </div>
 
-## 👨‍💻 About Me
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> About Me
 
 Fullstack Web Developer focused on modern web technologies.  
 Building scalable, clean, and high-performance applications.
 
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Technologies & Tools
+---
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Technologies & Tools
 
 <div align="center">
   <table>
@@ -22,7 +24,7 @@ Building scalable, clean, and high-performance applications.
         <img height="250" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,astro,tailwind,nodejs,python,cpp,docker,git,github,gitlab,linux,vscode&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,astro,tailwind,nodejs,python,opencv,cpp,docker,git,github,gitlab,linux,vscode&theme=dark&perline=6" />
       </td>
     </tr>
   </table>
@@ -30,7 +32,7 @@ Building scalable, clean, and high-performance applications.
 
 ---
 
-## 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i> Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrezak-halid&theme=2077" width="48%" />
@@ -43,26 +45,23 @@ Building scalable, clean, and high-performance applications.
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
+
 <p>
-<a href="https://t.me/ax729">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="mailto:abdulrezak.khaled@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abdulrezak-khaled">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/abodlkh/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+    <a href="mailto:abdulrezak.khaled@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrezak-khaled" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/abodlkh/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
+  <a href="https://t.me/ax729" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="Telegram" width="48" />
+  </a>
 </p>
 
-
 <p align="center">
-<img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" width="100%" />
+  <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" width="100%" />
 </p>
