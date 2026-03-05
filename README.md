@@ -35,12 +35,14 @@ Building scalable, clean, and high-performance applications.
 ### Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrezak-halid&theme=2077" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrezak-halid&theme=2077" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrezak-halid&theme=holi" width="96%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrezak-halid&theme=2077" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrezak-halid&theme=holi" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrezak-halid&theme=holi" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrezak-halid&theme=holi" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrezak-halid&theme=holi" width="48%" />
 </p>
 
 ---
