@@ -63,6 +63,3 @@ Building scalable, clean, and high-performance applications.
     <img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="Telegram" width="48" />
   </a>
 </p>
-
-Snake Eating Contributions in the last year  <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> 
-![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
