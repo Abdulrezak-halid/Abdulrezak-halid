@@ -8,10 +8,13 @@
 
 </div>
 
-### About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+<div align="center">
 
-Fullstack Web Developer focused on modern web technologies.  
-Building scalable, clean, and high-performance applications.
+### <div align="center"> About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> </div>
+
+#### Software Developer | Web Developer | IT Enthusiast
+
+</div>
 
 ---
 
