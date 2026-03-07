@@ -49,20 +49,3 @@
 </p>
 
 ---
-
-### Connect With Me 
-
-<p>
-    <a href="mailto:abdulrezak.khaled@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulrezak-khaled" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/abodlkh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
-  </a>
-  <a href="https://t.me/ax729" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="Telegram" width="48" />
-  </a>
-</p>
