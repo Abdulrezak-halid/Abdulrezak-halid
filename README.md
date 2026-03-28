@@ -12,7 +12,7 @@
 
 ### <div align="center"> About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> </div>
 
-#### Software Developer | Web Developer | IT Enthusiast
+### Software Developer | Web Developer | IT Enthusiast
 
 </div>
 
