@@ -35,6 +35,13 @@
 
 ---
 
+## GitHub Insights
+
+<!-- repo-insight-card:start -->
+<!-- repo-insight-card:end -->
+
+---
+
 ### Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
 
 <p align="center">
