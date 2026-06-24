@@ -35,10 +35,9 @@
 
 ---
 
-## GitHub Insights
+# GitHub Insights
 
-<!-- repo-insight-card:start -->
-<!-- repo-insight-card:end -->
+![GitHub Profile Insight Card](https://raw.githubusercontent.com/Abdulrezak-halid/repo-insight-card/main/dist/profile-card.svg)
 
 ---
 
