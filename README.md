@@ -35,7 +35,7 @@
 
 ---
 
-# GitHub Insights
+## GitHub Insights ⏳
 
 ![GitHub Profile Insight Card](https://raw.githubusercontent.com/Abdulrezak-halid/repo-insight-card/main/dist/profile-card.svg)
 
