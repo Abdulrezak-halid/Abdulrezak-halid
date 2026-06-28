@@ -35,11 +35,11 @@
 
 ---
 
-## GitHub Insights ⏳
-
 ![GitHub Profile Insight Card](https://raw.githubusercontent.com/Abdulrezak-halid/repo-insight-card/main/dist/profile-card.svg)
 
 ---
+
+<!--
 
 ### Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>
 
@@ -53,5 +53,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrezak-halid&theme=holi" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrezak-halid&theme=holi" width="48%" />
 </p>
-
----
+-->
