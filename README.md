@@ -1,3 +1,9 @@
+<div align="center">
+
+  [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+
+</div>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f74aee60-93b9-44dc-9a6e-09b760c39b07" alt="Mario Banner" />
 </p>
